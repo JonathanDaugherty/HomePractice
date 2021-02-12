@@ -1,0 +1,13 @@
+C:\repos\HomePractice\HomePractice\bin\Debug\netcoreapp3.1\HomePractice.exe
+C:\repos\HomePractice\HomePractice\bin\Debug\netcoreapp3.1\HomePractice.deps.json
+C:\repos\HomePractice\HomePractice\bin\Debug\netcoreapp3.1\HomePractice.runtimeconfig.json
+C:\repos\HomePractice\HomePractice\bin\Debug\netcoreapp3.1\HomePractice.runtimeconfig.dev.json
+C:\repos\HomePractice\HomePractice\bin\Debug\netcoreapp3.1\HomePractice.dll
+C:\repos\HomePractice\HomePractice\bin\Debug\netcoreapp3.1\HomePractice.pdb
+C:\repos\HomePractice\HomePractice\obj\Debug\netcoreapp3.1\HomePractice.AssemblyInfoInputs.cache
+C:\repos\HomePractice\HomePractice\obj\Debug\netcoreapp3.1\HomePractice.AssemblyInfo.cs
+C:\repos\HomePractice\HomePractice\obj\Debug\netcoreapp3.1\HomePractice.csproj.CoreCompileInputs.cache
+C:\repos\HomePractice\HomePractice\obj\Debug\netcoreapp3.1\HomePractice.dll
+C:\repos\HomePractice\HomePractice\obj\Debug\netcoreapp3.1\HomePractice.pdb
+C:\repos\HomePractice\HomePractice\obj\Debug\netcoreapp3.1\HomePractice.genruntimeconfig.cache
+C:\repos\HomePractice\HomePractice\obj\Debug\netcoreapp3.1\HomePractice.csprojAssemblyReference.cache
